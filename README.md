@@ -78,7 +78,7 @@ SO THAT I can keep a list of books to purchase
   ## Demo
   ![image of demo screenshot:](./images/demo.png)
 
-  To watch the application in action, click [here](https://www.youtube.com/watch?v=EtIOesZm-bM)
+  To view the site live, click [here](https://www.youtube.com/watch?v=EtIOesZm-bM)
 
   <a name = 'license'></a>
   ## License
